@@ -9,7 +9,7 @@
 # ====== FRONT-END =======
 
 - Responsive Layout
-- Shopping Cart, Wishlist, Product Reviews
+- Shopping Cart, Wishlist, Product Reviews 
 - Coupons & Discounts
 - Product attributes: cost price, promotion price, stock, size...
 - Blog: category, tag, content, web page 
